@@ -1,0 +1,14 @@
+# Logfile created on 2014-05-28 14:45:55 -0300 by logger.rb/44203
+I, [2014-05-28T14:45:55.427582 #28686]  INFO -- : 0:  rake (10.1.0) from /Users/Guga/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/default/rake-10.1.0.gemspec
+I, [2014-05-28T14:46:02.165621 #28686]  INFO -- : 0:  chunky_png (1.2.8) from /Users/Guga/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/chunky_png-1.2.8.gemspec
+I, [2014-05-28T14:46:02.166066 #28686]  INFO -- : 0:  fssm (0.2.10) from /Users/Guga/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/fssm-0.2.10.gemspec
+I, [2014-05-28T14:46:04.252835 #28686]  INFO -- : 0:  sass (3.2.9) from /Users/Guga/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/sass-3.2.9.gemspec
+I, [2014-05-28T14:46:04.253885 #28686]  INFO -- : 0:  compass (0.12.2) from /Users/Guga/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/compass-0.12.2.gemspec
+I, [2014-05-28T14:46:04.254559 #28686]  INFO -- : 0:  rack (1.5.2) from /Users/Guga/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-05-28T14:46:05.300127 #28686]  INFO -- : 0:  rack-protection (1.5.0) from /Users/Guga/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rack-protection-1.5.0.gemspec
+I, [2014-05-28T14:46:05.300612 #28686]  INFO -- : 0:  tilt (1.4.1) from /Users/Guga/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-05-28T14:46:07.351331 #28686]  INFO -- : 0:  sinatra (1.4.3) from /Users/Guga/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/sinatra-1.4.3.gemspec
+I, [2014-05-28T14:46:08.332125 #28686]  INFO -- : 0:  sinatra-flash (0.3.0) from /Users/Guga/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/sinatra-flash-0.3.0.gemspec
+I, [2014-05-28T14:46:09.748187 #28686]  INFO -- : 0:  temple (0.6.5) from /Users/Guga/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/temple-0.6.5.gemspec
+I, [2014-05-28T14:46:11.703034 #28686]  INFO -- : 0:  slim (2.0.0) from /Users/Guga/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/slim-2.0.0.gemspec
+I, [2014-05-28T14:46:11.703411 #28686]  INFO -- : 0:  bundler (1.5.1) from /Users/Guga/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
